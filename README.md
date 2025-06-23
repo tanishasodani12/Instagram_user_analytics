@@ -1,6 +1,6 @@
 # Instagram_user_analytics- SQL project 
 
-This is an independent SQL project analyzing Instagram user data to support marketing and investor decisions.
+This is an SQL project analyzing Instagram user data to support marketing and investor decisions.
 
 ## 🔹 Dataset Summary
 - 100 users
